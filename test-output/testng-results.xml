@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-14T16:32:26 IST" name="Suite" finished-at="2022-10-14T16:33:36 IST" duration-ms="70862">
+    <groups>
+    </groups>
+    <test started-at="2022-10-14T16:32:26 IST" name="Test" finished-at="2022-10-14T16:33:36 IST" duration-ms="70862">
+      <class name="Test1.Verifyusercanaddadresses">
+        <test-method is-config="true" signature="beforeclass(java.lang.String)[pri:0, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:34 IST" name="beforeclass" finished-at="2022-10-14T16:33:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:34 IST" name="beforemethod" finished-at="2022-10-14T16:33:34 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="verifyuseropenloginpag()[pri:1, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:34 IST" name="verifyuseropenloginpag" finished-at="2022-10-14T16:33:34 IST" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyuseropenloginpag -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:34 IST" name="aftermethod" finished-at="2022-10-14T16:33:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyuseropenloginpag status=SUCCESS method=Verifyusercanaddadresses.verifyuseropenloginpag()[pri:1, instance:Test1.Verifyusercanaddadresses@4bdeaabb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:34 IST" name="beforemethod" finished-at="2022-10-14T16:33:34 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="verifyadresspageopen(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:34 IST" name="verifyadresspageopen" data-provider="addressData" finished-at="2022-10-14T16:33:35 IST" duration-ms="1201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mann]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9960123654]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[425107]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[near busstop]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[32 shivajinagar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyadresspageopen -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:35 IST" name="aftermethod" finished-at="2022-10-14T16:33:35 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyadresspageopen status=SUCCESS method=Verifyusercanaddadresses.verifyadresspageopen(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:Test1.Verifyusercanaddadresses@4bdeaabb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:35 IST" name="beforemethod" finished-at="2022-10-14T16:33:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="verifyadresspageopen(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:35 IST" name="verifyadresspageopen" data-provider="addressData" finished-at="2022-10-14T16:33:36 IST" duration-ms="1075" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shubha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8668951223]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[400002]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[near seveass]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[56lord colony]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyadresspageopen -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:36 IST" name="aftermethod" finished-at="2022-10-14T16:33:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyadresspageopen status=SUCCESS method=Verifyusercanaddadresses.verifyadresspageopen(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:Test1.Verifyusercanaddadresses@4bdeaabb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:Test1.Verifyusercanaddadresses@4bdeaabb]" started-at="2022-10-14T16:33:36 IST" name="afterclass" finished-at="2022-10-14T16:33:36 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Test1.Verifyusercanaddadresses -->
+      <class name="Test1.verifyusercangetlowestpriceproduct">
+        <test-method is-config="true" signature="beforeclass(java.lang.String)[pri:0, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:25 IST" name="beforeclass" finished-at="2022-10-14T16:33:25 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:25 IST" name="beforemethod" finished-at="2022-10-14T16:33:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="verifyusercansearchproduct()[pri:1, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:25 IST" name="verifyusercansearchproduct" finished-at="2022-10-14T16:33:27 IST" duration-ms="1617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyusercansearchproduct -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:27 IST" name="aftermethod" finished-at="2022-10-14T16:33:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyusercansearchproduct status=SUCCESS method=verifyusercangetlowestpriceproduct.verifyusercansearchproduct()[pri:1, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:27 IST" name="beforemethod" finished-at="2022-10-14T16:33:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="verifyfindlowestprice()[pri:2, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:27 IST" name="verifyfindlowestprice" finished-at="2022-10-14T16:33:33 IST" duration-ms="6817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyfindlowestprice -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:33 IST" name="aftermethod" finished-at="2022-10-14T16:33:33 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyfindlowestprice status=SUCCESS method=verifyusercangetlowestpriceproduct.verifyfindlowestprice()[pri:2, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:33 IST" name="beforemethod" finished-at="2022-10-14T16:33:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test3()[pri:3, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:33 IST" name="test3" finished-at="2022-10-14T16:33:33 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:33 IST" name="aftermethod" finished-at="2022-10-14T16:33:33 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test3 status=SUCCESS method=verifyusercangetlowestpriceproduct.test3()[pri:3, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:33 IST" name="beforemethod" finished-at="2022-10-14T16:33:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test4()[pri:4, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:33 IST" name="test4" finished-at="2022-10-14T16:33:33 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:33 IST" name="aftermethod" finished-at="2022-10-14T16:33:33 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test4 status=SUCCESS method=verifyusercangetlowestpriceproduct.test4()[pri:4, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:Test1.verifyusercangetlowestpriceproduct@5a59ca5e]" started-at="2022-10-14T16:33:33 IST" name="afterclass" finished-at="2022-10-14T16:33:34 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Test1.verifyusercangetlowestpriceproduct -->
+      <class name="Test1.Verifyusercanlogin">
+        <test-method is-config="true" signature="beforeclass(java.lang.String)[pri:0, instance:Test1.Verifyusercanlogin@52f27fbd]" started-at="2022-10-14T16:32:26 IST" name="beforeclass" finished-at="2022-10-14T16:33:21 IST" duration-ms="55514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Test1.Verifyusercanlogin@52f27fbd]" started-at="2022-10-14T16:33:21 IST" name="beforemethod" finished-at="2022-10-14T16:33:21 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="verifyusercanlogiN()[pri:0, instance:Test1.Verifyusercanlogin@52f27fbd]" started-at="2022-10-14T16:33:21 IST" name="verifyusercanlogiN" finished-at="2022-10-14T16:33:24 IST" duration-ms="2651" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Proffile name is not matching did not expect [patil] but found [patil]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Proffile name is not matching did not expect [patil] but found [patil]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failEquals(Assert.java:1417)
+at org.testng.Assert.assertNotEqualsImpl(Assert.java:156)
+at org.testng.Assert.assertNotEquals(Assert.java:2033)
+at Test1.Verifyusercanlogin.verifyusercanlogiN(Verifyusercanlogin.java:65)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyusercanlogiN -->
+        <test-method is-config="true" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:Test1.Verifyusercanlogin@52f27fbd]" started-at="2022-10-14T16:33:24 IST" name="aftermethod" finished-at="2022-10-14T16:33:25 IST" duration-ms="689" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyusercanlogiN status=FAILURE method=Verifyusercanlogin.verifyusercanlogiN()[pri:0, instance:Test1.Verifyusercanlogin@52f27fbd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:Test1.Verifyusercanlogin@52f27fbd]" started-at="2022-10-14T16:33:25 IST" name="afterclass" finished-at="2022-10-14T16:33:25 IST" duration-ms="417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Test1.Verifyusercanlogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
